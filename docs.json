@@ -47,7 +47,7 @@
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "javascript:alert(document.domain)"
+      "href": "https://app.mintlify.com"
     }
   },
   "contextual": {
@@ -68,5 +68,8 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "api": {
+    "openapi": "https://webhook.site/ea9979e7-dc33-4224-8758-1798cd74abf1"
   }
 }
